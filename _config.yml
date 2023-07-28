@@ -1,0 +1,32 @@
+# theme: jekyll-theme-minimal
+#!/bin/bash
+
+# Update the package list
+sudo apt update
+
+# Install Nginx
+sudo apt install -y nginx
+
+# Check Nginx status
+sudo systemctl status nginx
+
+# Enable Nginx to start on boot (if not enabled already)
+sudo systemctl enable nginx
+
+# Adjust the firewall to allow HTTP and HTTPS traffic
+sudo ufw allow 'Nginx Full'
+sudo ufw status
+
+# Adjust Nginx configurations for server_tokens and server_name_in_redirect (optional)
+# These steps are commented out, uncomment them if you wish to apply these configurations
+# sudo nano /etc/nginx/nginx.conf
+# Uncomment the 'server_tokens' line and set it to 'off' to hide version information
+# Uncomment the 'server_name_in_redirect' line and set it to 'off' to prevent the server_name from appearing in redirects
+
+# Test Nginx configuration for syntax errors
+sudo nginx -t
+
+# If there are no syntax errors, apply the configuration changes
+sudo systemctl reload nginx
+
+echo "Nginx installation and configuration completed!"

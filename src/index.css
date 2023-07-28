@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* 
+Welcome to Shipped.space: Empowering Your DevOps with Automation!
+
+About Us:
+
+At Shipped.space, we are passionate about simplifying the complex world of DevOps by providing cutting-edge automation solutions for your software development and operations needs. Our mission is to empower teams of all sizes, from startups to enterprise-level organizations, with the tools they need to streamline their workflows, increase productivity, and deliver exceptional software faster than ever before.
+
+Our DevOps Automation Solutions:
+
+1. Continuous Integration and Continuous Deployment (CI/CD):
+Our robust CI/CD automation platform takes the manual effort out of building, testing, and deploying your applications. Say goodbye to time-consuming, error-prone manual deployments. With Shipped.space, you can confidently automate the entire deployment pipeline, from code commit to production release, ensuring rapid, reliable, and hassle-free software delivery.
+
+2. Infrastructure as Code (IaC):
+Automate the provisioning and management of your cloud infrastructure with our IaC solutions. We support popular cloud providers, such as AWS, Azure, and Google Cloud, allowing you to define your infrastructure in code. By automating the infrastructure setup, you gain scalability, consistency, and the ability to quickly recover from failures.
+
+3. Automated Testing:
+Quality is paramount in software development. Our automated testing solutions help you thoroughly test your applications, identify bugs early, and ensure your code meets the highest standards. With comprehensive test suites and continuous feedback, you can confidently release software with minimal risk.
+
+4. Monitoring and Alerting:
+Stay on top of your application's performance with our automated monitoring and alerting tools. Shipped.space provides real-time insights into your system's health, enabling proactive issue resolution before they impact end-users. Receive instant alerts to tackle any anomalies swiftly and maintain a seamless user experience.
+
+5. Security and Compliance Automation:
+Security is non-negotiable in today's tech landscape. Our security and compliance automation solutions ensure that your applications adhere to industry standards and best practices. Automated vulnerability scanning, code analysis, and security audits help you maintain a robust and secure software ecosystem.
+
+Why Choose Shipped.space:
+
+1. Cutting-Edge Technology:
+We stay ahead of the curve by employing the latest technologies and industry best practices. Our team of experts is dedicated to researching and implementing state-of-the-art solutions that can drive your DevOps to new heights.
+
+2. Seamless Integration:
+No need to rip and replace your existing tools. Shipped.space is designed to integrate smoothly with your current development stack, enhancing your existing processes without disruption.
+
+3. Scalability and Flexibility:
+Whether you're a small startup or an enterprise giant, our automation solutions scale with your needs. Choose the features and modules that fit your requirements, and our platform will grow with you.
+
+4. Expert Support:
+Our team of experienced professionals is committed to your success. We provide top-notch support and guidance, ensuring you make the most of our automation solutions and optimize your DevOps practices.
+
+5. Cost-Effective:
+Automating your DevOps not only saves time but also reduces costs in the long run. By minimizing human error, improving efficiency, and increasing productivity, you'll see a significant return on investment with Shipped.space.
+
+Take Your DevOps to the Next Level:
+
+Discover how Shipped.space can transform your development and operations processes. Embrace automation and unleash the true potential of your team. Join countless organizations worldwide that have revolutionized their software delivery with Shipped.space.
+
+Contact us today for a personalized demo and see how we can help you automate your DevOps for unparalleled efficiency and success. Let's embark on a journey to make your software development lifecycle smoother, faster, and more reliable than ever before. Welcome to the future of DevOps automation - welcome to Shipped.space! */
