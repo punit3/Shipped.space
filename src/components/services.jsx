@@ -6,10 +6,10 @@ export const Services = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>Our DevOps Automation Solutions</h2>
-          <p>
+          {/* <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
             dapibus leonec.
-          </p>
+          </p> */}
         </div>
         <div className="row services-container">
           {props.data
